@@ -26,7 +26,7 @@ go to https://www.weatherapi.com . create an account and get the api key then us
 
 Run The app
 
-### `npm start` or `yarn start`
+### `npm start` or `yarn start`r
 
 Runs your app in development mode.
 
